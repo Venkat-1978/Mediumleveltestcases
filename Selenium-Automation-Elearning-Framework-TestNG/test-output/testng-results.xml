@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42962" started-at="2019-09-11T14:51:38Z" finished-at="2019-09-11T14:52:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42962" started-at="2019-09-11T14:51:38Z" finished-at="2019-09-11T14:52:21Z">
+      <class name="com.training.sanity.tests.RewardpointsTests">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RewardpointsTests@3e6fa38a]" name="setUpBeforeClass" is-config="true" duration-ms="13" started-at="2019-09-11T14:51:38Z" finished-at="2019-09-11T14:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RewardpointsTests@3e6fa38a]" name="setUp" is-config="true" duration-ms="10685" started-at="2019-09-11T14:51:38Z" finished-at="2019-09-11T14:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestCase3()[pri:0, instance:com.training.sanity.tests.RewardpointsTests@3e6fa38a]" name="TestCase3" duration-ms="30471" started-at="2019-09-11T14:51:49Z" finished-at="2019-09-11T14:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RewardpointsTests@3e6fa38a]" name="tearDown" is-config="true" duration-ms="1770" started-at="2019-09-11T14:52:20Z" finished-at="2019-09-11T14:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.RewardpointsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
